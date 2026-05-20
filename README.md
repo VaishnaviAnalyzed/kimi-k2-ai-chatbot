@@ -1,4 +1,4 @@
-﻿#  Kimi Chatbot AI
+﻿#  Kimi-k2 Chatbot AI
 
 A high-performance AI chatbot built with **Python**, **Groq**, and **Llama 3**. This project leverages Groq's LPU technology to provide near-instantaneous text generation, making it one of the fastest chatbot implementations available.
 
